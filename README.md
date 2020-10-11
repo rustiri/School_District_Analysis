@@ -26,12 +26,12 @@ School district analysis on student's funding and standardized testing with the 
   
 ![alt text](Resources/spending_ranges_wo_9th.png)
   
- ## Summary
- The following four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with Nans are:
-•	The average math score has changed from 79.0 to 78.9
-•	The percentage of passing math has changed from 75 to 74.8
-•	The percentage of passing reading has changed from 86 to 85.7
-•	The percentage of overall passing has changed from 65 to 64.9
+## Summary
+The following four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with Nans are:
+* The average math score has changed from 79.0 to 78.9
+* The percentage of passing math has changed from 75 to 74.8
+* The percentage of passing reading has changed from 86 to 85.7
+* The percentage of overall passing has changed from 65 to 64.9
 
 ![alt text](Resources/district_summ_df_with_9th.png)
 ![alt_text](Resources/district_summ_df_wo_9th.png)
