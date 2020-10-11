@@ -19,10 +19,10 @@ School district analysis on student's funding and standardized testing with the 
 * The school summary is affected by: The percentage of overall passing has changed for each of three categories.
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  Thomas High School is still on the top five high performance.
 * Replacing the ninth graders’ math and reading scores did not affect the following:
-  •	Math and reading scores by grade
-  •	Scores by school spending
-  •	Scores by school size
-  •	Scores by school type
+  - Math and reading scores by grade
+  - Scores by school spending
+  - Scores by school size
+  - Scores by school type
   
 ![alt text](Resources/spending_ranges_wo_9th.png)
   
